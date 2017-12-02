@@ -8,6 +8,6 @@ public class TerwezeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TerwezeApplication.class, args);
-		//stukje commentaar om een commit uit te voeren qdf
+		//stukje commentaar om een commit uit te voeren qdfqdf
 	}
 }
